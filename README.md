@@ -36,6 +36,7 @@ This dataset comes from the Center for Disease Control and Prevention's website 
  4. Using the best_model output from the get_model() function the predict_model() function uses the best_model to simulate future datapoints for the selected time frame (the time between Year1 and Year2) and plots these points on a line graph in red and plots historical data in black. 
  
  **Functions**
+ 
  **lmp(modelobject)** - finds the p-value for a given model
     modelobject = regression model (linear or quadratic)
     
