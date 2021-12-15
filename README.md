@@ -14,7 +14,7 @@
 
 This dataset comes from the Center for Disease Control and Prevention's website https://data.cdc.gov/Smoking-Tobacco-Use/BRFSS-Prevalence-and-Trends-Data-Tobacco-Use-Four-/8zak-ewtm and contains 876 unique records across 7 columns.  We downloaded this dataset from the CDC's website. As this dataset is regularly maintained by CDC, minimal data cleaning and preparation steps are needed and all necessary steps are taking in the app. The data origination and access legality is all covered by the CDC as the CDC provides public access to this dataset via their data.cdc.gov website. There are no privacy concerns worth noting in this dataset as all data records are non-descript or personally identifiable to any one individual. Furthermore, the CDC makes this dataset publicly accessible.
  
- **Packages
+ **Packages**
  
  This shiny app requires the use of:
  
