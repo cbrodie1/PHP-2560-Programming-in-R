@@ -2,7 +2,7 @@
 
 **Tobacco Use in the United States**
 
-  Tobacco Use in the U.S. 1990 - 2030 is a Shiny app that allows users to explore the Center for Disease Control and Prevention's Behavioral Risk Factor Surveillance System (BRFSS) Prevalence and Trends Data: Tobacco Use - Four Levels Smoking Data for 1995 - 2010 [1]. By accessing the applicaton, users can examine tobacco use rates over time across the United States. As the BRFSS dataset utilized in this shiny app is limited in timespan (1990 to 2010) this shiny app additionally provides users with a visual representation of future data simulations by plotting the best fit model as determined by the application selection criteria. The link to the app is: 
+  Tobacco Use in the U.S. 1990 - 2030 is a Shiny app that allows users to explore the Center for Disease Control and Prevention's Behavioral Risk Factor Surveillance System (BRFSS) Prevalence and Trends Data: Tobacco Use - Four Levels Smoking Data for 1995 - 2010 [1]. By accessing the applicaton, users can examine tobacco use rates over time across the United States. As the BRFSS dataset utilized in this shiny app is limited in timespan (1990 to 2010) this shiny app additionally provides users with a visual representation of future data simulations by plotting the best fit model as determined by the application selection criteria. The link to the app is:  https://csbrodie.shinyapps.io/final_project/
   
  **Dataset**
  
